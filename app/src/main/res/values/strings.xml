@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Torneo Argentino de Paintball</string>
+
+    <string name="title_section1">Ranking</string>
+    <string name="title_section2">Fixtures</string>
+    <string name="title_section3">Layout</string>
+    <string name="title_section4">Reglamento</string>
+    <string name="title_section5">Fotos</string>
+    <string name="title_section6">Videos</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">x</string>
+
+    <string name="action_settings">x2</string>
+</resources>
